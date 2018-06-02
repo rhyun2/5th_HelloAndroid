@@ -1,5 +1,9 @@
 package com.example.rhyun.helloandroid;
 
+/**
+ * Hello Test
+ */
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -9,6 +13,7 @@ import android.widget.TextView;
 /**
  * Hello Test
  */
+
 public class MainActivity extends AppCompatActivity {
 
     TextView tv;
